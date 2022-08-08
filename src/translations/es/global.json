@@ -1,0 +1,32 @@
+{
+    "navbar":{
+        "ingles":"Ingles",
+        "espanol":"Español"
+        
+    },
+    "body":{
+        "des":"Registrar",
+        "tab":"Tabla",
+        "periodo":"Periodo",
+        "descripcion":"Descripcion",
+        "categoria":"Categoria",
+        "monto":"Monto",
+        "acciones":"Acciones",
+        "guar":"Guardar",
+        "gasto": "Gasto",
+        "ingreso": "Ingreso",
+        "monedero": "Tu monedero es",
+        "email": "Tu email es",
+        "categoria_items": {
+            "1": "Comida",
+            "2": "Transporte",
+            "3": "Entretenimiento",
+            "4": "Salud",
+            "5": "Otros"
+        },
+        "validacion":{
+            "categoria": "Agrega una categoría para registrar gastos o ingresos"
+        }
+
+    }
+}

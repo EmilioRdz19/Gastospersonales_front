@@ -1,0 +1,32 @@
+{
+    "navbar":{
+        "ingles":"English",
+        "espanol":"Spanish"
+        
+    },
+    "body":{
+        "des":"Register",
+        "tab":"Table",
+        "periodo":"Period",
+        "descripcion":"Description",
+        "categoria":"Category",
+        "monto":"Amount",
+        "acciones":"Actions",
+        "guar":"Save",
+        "gasto": "Expense",
+        "ingreso": "Income",
+        "monedero": "Your wallet is",
+        "email": "Your email is",
+        "categoria_items": {
+            "1": "Food",
+            "2": "Transport",
+            "3": "Entertainment",
+            "4": "Health",
+            "5": "Other"
+        },
+        "validacion":{
+            "categoria": "Add a category to record expenses or income"
+        }
+        
+    }
+}
