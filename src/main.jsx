@@ -13,6 +13,7 @@ import axios from 'axios'
 const URL = import.meta.env.VITE_RUTA_API;
 axios.defaults.baseURL = URL;
 
+//FUNCIONALIDAD INGLÉS/ESPAÑOL
 i18next.init({
   interpolation: { escapeValue: false },
   lng: 'es',
