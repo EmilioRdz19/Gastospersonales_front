@@ -44,7 +44,7 @@ export const Login = () => {
                     <div>
                         <h1 className="text-3xl font-bold text-center mb-4 cursor-default">Gastos</h1>
                         <p className="w-80 text-center text-sm mb-8 font-semibold text-gray-700 tracking-wide cursor-default">
-                            Entra con tu correo para crear una cuenta o iniciar sesión
+                            Entra  con tu correo para crear una cuenta o iniciar sesión
                         </p>
                     </div>
                     <div className="space-y-4">
