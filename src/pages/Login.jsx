@@ -22,7 +22,7 @@ export const Login = () => {
         } catch (response) {
             if(response.response.status === 404){
                 try {
-                    const usuario = await obtenerUsuario(data.email)
+                    const usuario = await registrarUsuario(data.email)
                     if(usuario.status === 200){
                         console.log("Usuario creado")
                         localStorage.setItem("usuario", JSON.stringify(usuario.data))
